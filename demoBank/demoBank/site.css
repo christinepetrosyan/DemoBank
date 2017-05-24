@@ -1,0 +1,62 @@
+﻿body{
+      background-color:rgb(243,243,244) !important;
+      font-family: "open sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+      font-size: 13px;
+      color: #676a6c;
+      overflow-x: hidden;
+}
+.container{
+  background-color:rgb(243,243,244) !important;
+  height:150px !important;
+}
+.middle-box{
+    max-width:400px;
+    z-index:100;
+    margin: 0 auto 0 auto;
+    padding-top:100px !important;
+    }
+.loginscreen.middle-box{
+    width:300px;
+}
+.m-t {
+    margin-top:15px;
+}
+.m-b {
+    margin-bottom:15px;
+}
+.form-control {
+
+}
+.form-group {
+    margin-bottom:15px;
+}
+.btn {
+    border-radius:3px !important;
+}
+.btn-primary {
+    background-color:#1ab394;
+    border-color:#1ab394 !important;
+    color:#FFFFFF;
+}
+.btn-primary:hover {
+  color: #fff;
+  background-color: #1ab394;
+  border-color: #01549b;
+}
+button {
+    overflow: visible;
+    overflow-x: visible;
+    overflow-y: visible;
+}
+button, select {
+    text-transform: none;
+}
+div{
+    display:block;
+}
+.full-width {
+    width: 100% !important;
+}
+.block {
+    display:block;
+}
